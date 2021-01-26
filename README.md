@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Raj</h1>
 <h3 align="center">A Passionate student from Chennai</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishi772001" alt="rishi772001" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishi772001" alt="rishi772001" /></a> </p> -->
 
 - 🔭 I’m currently working on [voice prescription](https://github.com/rishi772001/Voice-Prescription)
 
