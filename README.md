@@ -11,8 +11,6 @@
 
 - 👨‍💻 Here's my portfolio [https://rishi772001.github.io/Rishi-Portfolio/](https://rishi772001.github.io/Rishi-Portfolio/)
 
-- 📝 I regularly write articles on [itzrishihere.blogspot.com](itzrishihere.blogspot.com)
-
 - 📫 How to reach me **rishi772001@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/rishi772001/rishi772001/blob/main/Resume.pdf](https://github.com/rishi772001/rishi772001/blob/main/Resume.pdf)
