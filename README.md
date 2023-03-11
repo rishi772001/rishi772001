@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rishi Raj</h1>
-<h3 align="center">A Passionate student from Chennai</h3>
+<h3 align="center">A software developer from Chennai</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishi772001" alt="rishi772001" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [voice prescription](https://github.com/rishi772001/Voice-Prescription) -->
 
-- 🌱 I’m currently learning **Google Cloud and REST API**
+- 💻 I’m currently working at **Zoho corporation**
 
 - 👯 I’m looking to collaborate on **open source projects**
-
-- 👨‍💻 Here's my portfolio [https://rishi772001.github.io/Rishi-Portfolio/](https://rishi772001.github.io/Rishi-Portfolio/)
 
 - 📫 How to reach me **rishi772001@gmail.com**
 
